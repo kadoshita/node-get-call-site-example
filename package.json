@@ -1,0 +1,13 @@
+{
+  "name": "get-call-site-example",
+  "version": "0.0.1",
+  "description": "Node.js 22.9.0のgetCallSiteのサンプル",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sublimer <sublimer.me@gmail.com> (https://sublimer.me/)",
+  "license": "MIT"
+}
